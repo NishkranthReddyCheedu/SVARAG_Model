@@ -47,7 +47,7 @@
 ### 1️⃣ Clone the Repository
 
 ```commandline
-git clone https://github.com/varshath-akula/SVARAG.git
+git clone https://github.com/NishkranthReddyCheedu/SVARAG.git
 cd SVARAG
 ```
 
