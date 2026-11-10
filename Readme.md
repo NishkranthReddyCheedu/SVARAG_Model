@@ -48,7 +48,7 @@
 
 ```commandline
 git clone https://github.com/NishkranthReddyCheedu/SVARAG_Model.git
-cd SVARAG
+cd SVARAG_Model
 ```
 
 ### 2️⃣ Install FFmpeg (Required for Whisper)
